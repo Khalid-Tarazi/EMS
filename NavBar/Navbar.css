@@ -1,0 +1,63 @@
+.navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+     z-index: 1000;  /*specifies the stack order of an element */
+    font-family: 'Arial, sans-serif';
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.navbar:hover {
+    background-color: #444;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+ img {          /*logo */
+    height: 35px;
+    width: auto;
+    margin-right: 10px;
+}
+
+.navbar-brand a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.navbar-brand a:hover {
+    color: #ddd;
+}
+
+.navbar-buttons .btn {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+    margin: 0 5px;
+    background-color: #444;
+    border-radius: 5px;
+    font-family: 'Arial, sans-serif';
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.navbar-buttons .btn:hover {
+    background-color: #555;
+    transform: scale(1.05);
+}
+
+.navbar-buttons .btn:active {
+    background-color: #666;
+    transform: scale(1);
+}

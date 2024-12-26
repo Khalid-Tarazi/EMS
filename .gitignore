@@ -1,0 +1,6 @@
+/vendor/
+.env
+*.log
+.vscode/
+/node_modules/
+config.php

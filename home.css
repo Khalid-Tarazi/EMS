@@ -1,0 +1,59 @@
+body {
+    background-image: url('Images/background2.jpeg');
+    background-size: cover;
+    background-attachment: fixed;
+    /* Keeps the background fixed while scrolling */
+    font-family: 'Arial, sans-serif';
+}
+
+.content {
+    padding: 20px;
+    text-align: center;
+}
+
+.company-vision,
+.media,
+.features,
+.testimonials,
+.upcoming-events,
+.cta {
+    margin: 20px 0;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.gallery {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.gallery img {
+    width: 30%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.video {
+    margin-bottom: 20px;
+}
+
+.video video {
+    width: 100%;
+    max-width: 560px;
+    border-radius: 5px;
+}
+
+.features,
+.testimonials,
+.upcoming-events,
+.cta {
+    background-color: #f9f9f9;
+}
+
+.feature-item,
+.testimonial-item {
+    margin-bottom: 20px;
+}
