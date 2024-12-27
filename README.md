@@ -3,7 +3,7 @@ Full stack development, where I used HTML, CSS, JS, and PHP.
 
 - Homepage:
 ![image](https://github.com/user-attachments/assets/c87579fd-b3a8-49c6-b41f-8708bba9301e)
-![image](https://github.com/user-attachments/assets/fbf0e10c-7296-43bb-addd-c6fa63a26c9f)
+![image](https://github.com/user-attachments/assets/3bc79f43-aa8b-42f6-9a02-21e6fa9fd8a0)
 
 - Sign Up Page:
 ![image](https://github.com/user-attachments/assets/d08a061b-ad70-42f9-a99b-45827db7c509)
