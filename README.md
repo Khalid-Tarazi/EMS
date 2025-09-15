@@ -15,3 +15,6 @@ Full stack development, where I used HTML, CSS, JS, and PHP.
 
 - View Events Per Organizer:
 ![image](https://github.com/user-attachments/assets/851b4cfe-3beb-4561-b8d3-3900c6366589)
+
+---
+### The Docs folder contains more information about the project, like presentation, technical documentation  and user manual.
