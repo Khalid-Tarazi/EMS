@@ -1,5 +1,5 @@
 Events Management System project as part of the application development course - Software engineering.
-Full stack development, where I used HTML, CSS, JS, and PHP.
+Full stack development, where I used HTML, CSS, JS, and PHP, MySQL.
 
 *Note: Since this project was one of my projects in college, using Bootstrap was forbidden.
 
