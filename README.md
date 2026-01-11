@@ -1,7 +1,7 @@
 Events Management System project as part of the application development course - Software engineering.
 Full stack development, where I used HTML, CSS, JS, and PHP, MySQL.
 
-*Note: Since this project was one of my projects in college, using Bootstrap was forbidden.
+*Note: Since this project was one of my projects in college, using Bootstrap or Tailwind was forbidden.
 
 - Homepage:
 ![image](https://github.com/user-attachments/assets/c87579fd-b3a8-49c6-b41f-8708bba9301e)
